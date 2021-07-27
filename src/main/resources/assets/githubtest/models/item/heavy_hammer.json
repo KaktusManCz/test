@@ -1,0 +1,8 @@
+{
+  "parent": "githubtest:custom/heavyhammer",
+  "textures": {
+    "0": "githubtest:blocks/wood",
+    "1": "githubtest:blocks/steel",
+    "particle": "githubtest:items/hammer"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "HeavyHammerRightClickedInAir",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavy_hammer_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HeavyHammer",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "heavy_hammer"
+    },
+    {
+      "name": "Car",
+      "type": "mob",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "car"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.githubtest.car_spawn_egg": "Car Spawn Egg",
+      "item.githubtest.heavy_hammer": "Heavy Hammer",
+      "entity.githubtest.car": "Car"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "githubtest",
+    "modName": "githubTest",
+    "version": "1.0.0",
+    "author": "ondra, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.githubtest",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

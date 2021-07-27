@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wood",
+        "1": "steel"
+      },
+      "name": "default"
+    }
+  }
+}
