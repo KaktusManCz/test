@@ -26,24 +26,13 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "heavy_hammer"
-    },
-    {
-      "name": "Car",
-      "type": "mob",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "car"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.githubtest.car_spawn_egg": "Car Spawn Egg",
-      "item.githubtest.heavy_hammer": "Heavy Hammer",
-      "entity.githubtest.car": "Car"
+      "item.githubtest.heavy_hammer": "Heavy Hammer"
     }
   },
   "foldersRoot": {
